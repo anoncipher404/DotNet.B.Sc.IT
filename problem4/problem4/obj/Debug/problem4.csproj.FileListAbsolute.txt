@@ -1,0 +1,7 @@
+C:\Users\shashwat\Documents\Code\C#\problem4\problem4\bin\Debug\problem4.exe.config
+C:\Users\shashwat\Documents\Code\C#\problem4\problem4\bin\Debug\problem4.exe
+C:\Users\shashwat\Documents\Code\C#\problem4\problem4\bin\Debug\problem4.pdb
+C:\Users\shashwat\Documents\Code\C#\problem4\problem4\obj\Debug\problem4.csproj.AssemblyReference.cache
+C:\Users\shashwat\Documents\Code\C#\problem4\problem4\obj\Debug\problem4.csproj.CoreCompileInputs.cache
+C:\Users\shashwat\Documents\Code\C#\problem4\problem4\obj\Debug\problem4.exe
+C:\Users\shashwat\Documents\Code\C#\problem4\problem4\obj\Debug\problem4.pdb
